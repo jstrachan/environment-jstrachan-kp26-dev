@@ -1,0 +1,9 @@
+prow:
+  auth:
+    git:
+      username: jstrachan@cloudbees.com
+  buildnum:
+    enabled: "false"
+  pipelinerunner:
+    enabled: "true"
+  tillerNamespace: ""
